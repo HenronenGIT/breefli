@@ -1,3 +1,5 @@
+![Screenshot 2026-03-24 at 18 21 30](https://github.com/user-attachments/assets/12ba063d-0a57-4df9-9b4f-e2f83b385f76)
+
 # Breefli
 
 A news aggregator with AI personalized daily briefings.
