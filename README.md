@@ -6,7 +6,7 @@ A news aggregator with AI personalized daily briefings.
 
 ## What it does
 
-Breefli pulls content from Reddit, RSS feeds, and curated sources into a single feed.
+Breefli pulls content from curated sources into a single feed, and provide AI enhanced daily briefing from top news of the day.
 
 - **Personalized feed** — choose sources by interest category or add your own
 - **Briefing** — daily summary of top stories, clustered by topic and written in your preferred style
